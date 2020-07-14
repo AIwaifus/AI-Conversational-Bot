@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the own
+This repository, under the owners
