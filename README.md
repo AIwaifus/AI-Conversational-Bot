@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the ownership of A
+This repository, under the ownership of AIw
