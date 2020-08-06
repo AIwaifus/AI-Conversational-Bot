@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the ownership of AIwaif
+This repository, under the ownership of AIwaifus
