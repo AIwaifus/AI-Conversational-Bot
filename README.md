@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the ownership of AIwaifus, implements a cha
+This repository, under the ownership of AIwaifus, implements a chat
