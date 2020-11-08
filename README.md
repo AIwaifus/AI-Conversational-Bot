@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the ownership of AIwaifus, implements a chatbot via Java-based Artificial Intelligence. The chatbot utilizes Co
+This repository, under the ownership of AIwaifus, implements a chatbot via Java-based Artificial Intelligence. The chatbot utilizes Cor
