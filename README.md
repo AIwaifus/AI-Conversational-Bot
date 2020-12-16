@@ -1,2 +1,2 @@
 # AI-Conversational-Bot
-This repository, under the ownership of AIwaifus, implements a chatbot via Java-based Artificial Intelligence. The chatbot utilizes Core Java and Swing Project, developed with the Notepad++ edi
+This repository, under the ownership of AIwaifus, implements a chatbot via Java-based Artificial Intelligence. The chatbot utilizes Core Java and Swing Project, developed with the Notepad++ edit
