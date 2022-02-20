@@ -3,4 +3,4 @@ This repository, under the ownership of AIwaifus, implements a chatbot via Java-
 
 The project, runnable on various IDEs as a command line application, includes AI-driven responses to user input, basic type-error detection, text processing, and text prediction capabilities. Future plans include more extensive use of Natural Language Processing and improvements in implementing Machine Learning Algorithms.
 
-# 
+# P
