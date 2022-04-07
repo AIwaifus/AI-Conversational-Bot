@@ -5,4 +5,4 @@ The project, runnable on various IDEs as a command line application, includes AI
 
 # Project Details
 
-The program: A chatbot project deve
+The program: A chatbot project develo
