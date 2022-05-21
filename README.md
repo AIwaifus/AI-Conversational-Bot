@@ -7,4 +7,4 @@ The project, runnable on various IDEs as a command line application, includes AI
 
 The program: A chatbot project developed using swing and core java concepts.
 
-# Repository Ve
+# Repository Vers
